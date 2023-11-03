@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Adegbola Emmanuel Adebisi - [Github](https://github.com/Horbital1140)
+Olamijulo Timilehin - [Github](https://github.com/TeeMeeLehin) / [Twitter](https://twitter.com/_timix) 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
@@ -163,10 +165,5 @@ Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection.
 
-
-## Author
-Adegbola Emmanuel Adebisi  [Github](https://github.com/Horbital1140)
-Timilehin Olamijulo  [Github](https://github.com/TeeMeeLehin)
-
-## new contribution
-making the web static project dynamic
+## Latest contribution
+Dynamic implementation of the Flask web app
